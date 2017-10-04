@@ -1,0 +1,10 @@
+# Bundle files
+dist/
+
+# Installed dependencies
+node_modules/
+package-lock.json
+
+# Source code editors
+.idea
+*~
